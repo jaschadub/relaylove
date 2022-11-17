@@ -1,9 +1,7 @@
 # ❄️ Relay Love
 
 
-https://relay.love<br>
-[mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion](http://mfhwtydqwv3jcjt2wumjmqww2llltfaqdbivu3hcmcnkhj5dvxjxiaid.onion)<br>
-https://glenn-sorrentino.github.io/relaylove/
+https://relay.jascha.me<br>
 
 ## Temporarily Share Your Bandwidth
 Help people safely access the internet using the Tor network. To share your connection, enable the toggle and keep the tab open. Avoid sharing from censored locations.
